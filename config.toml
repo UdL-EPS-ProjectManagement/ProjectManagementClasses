@@ -1,7 +1,8 @@
 baseURL = "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Project Management Classes"
 publishDir = "docs"
+
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
