@@ -1,0 +1,159 @@
+= How to make efficient presentations
+Aitor Corchero Rodríguez <aitorcorchero@gmail.com>
+:organization: Eurecat
+:position: Data Scientist at Smart Management Systems
+:twitter: @aolite
+:avatar: aitor-corchero.png
+:imagesdir: images
+:favicon: {imagesdir}/favicon.ico
+:!sectids:
+
+image::title-page.jpeg[Graph nodes background,1280,720,role=cover canvas]
+
+[%editable,transform=speaker]
+== Speaker
+
+[.agenda%conceal]
+== Agenda
+[.agenda,build=items]
+* Design your Slides
+* Prepare yourself
+* Staging
+* Tentative Technology
+
+[.slide-agenda-title]
+== Design your Slides
+
+[.slide-title-down]
+== Choose a topic
+image::select-topic.jpg[Select Your Topic,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Know your Audience
+image::audience.jpg[Know your Audience,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Brainstorming
+image::brainstorming.jpg[Brainstorming,1280,720,role=cover canvas]
+
+
+[.slide-title-down]
+== Make the Narrative
+image::narrative.jpg[Select Your Topic,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== !Visual Aspect
+image::visual.png[Visual Aspect,1280,720,role=cover canvas]
+
+[.presentation-bugs]
+== !Presentation Bugs
+image::evil-minion.png[]
+
+== Code in Presentations
+[source, xml]
+----
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Belgium in a nutshell</title>
+  <itemizedlist>
+    <listitem><simpara>Beer</simpara></listitem>
+    <listitem><simpara>Chocolate</simpara></listitem>
+    <listitem><simpara>
+        <link xlink:href="http://devoxx.be">Devoxx</link>
+      </simpara></listitem>
+  </itemizedlist>
+</article>
+----
+
+== Too Much Text in the slides
+
+We could make a presentation with lot of text in each slide. This makes rendering sentence difficult. So, we probably need to cut some of the sentences to make it readable. The effect is even worst with bullet points:
+
+[.list,build=items]
+* Point A
+* Point B
+* Point C
+
+[.grey-color]
+== And the color too...
+
+We could make a presentation with lot of text in each slide. This makes rendering sentence difficult. So, we probably need to cut some of the sentences to make it readable. The effect is even worst with bullet points:
+
+[.img-shadow]
+== Combine text with images
+image::text-img.png[Select Your Topic,600,214]
+
+[.img-shadow]
+== Font size is important
+image::size.png[]
+
+== You can stey more fokused
+
+== You can stey more foCused
+
+== You can stAy more focused
+
+== !Focused
+image::revise.jpg[Revise Presentation,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== !Thesaurus
+image::thesaurus.png[Thesaurus,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Prepare Yourself
+
+[.slide-title-down]
+== Be Secure
+image::secure.jpg[Be Secure Yourself,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Correct Clothing
+image::clothes.jpg[Correct Clothing,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Get out Nervous
+image::nervous.jpg[Correct Clothing,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Coordinated Gestures
+image::gestures.jpg[Coordinated Gestures,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Staging
+
+[.slide-title-down]
+== Visual Contact
+image::visual-contact.jpg[Visual Contact,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== Audience Interaction
+image::interaction.jpg[Audience Interaction,1280,720,role=cover canvas]
+
+[.slide-agenda-title]
+== Tentative Technology
+
+[.slide-title-down]
+== !Power Point
+image::ppt.jpg[Power Point,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== !Prezi
+image::prezi.jpg[Prezi,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== !Reveal.js (HTML)
+image::reveal.png[Reveal.js,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== !Bespoke (HTML)
+image::bespoke.png[bespoke.js,1280,720,role=cover canvas]
+
+[.slide-title-down]
+== !Deck.js (HTML)
+image::deck.png[Deck.js,1280,720,role=cover canvas]
+
+[.ending-slide]
+== Be Ready and feel free to make presentations
+image::free.jpg[Feel Free,1280,720,role=cover canvas]
