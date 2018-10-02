@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = " https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 publishDir = "docs"
