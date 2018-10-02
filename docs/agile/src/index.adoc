@@ -157,5 +157,5 @@ image::simplicity.gif[Simplicity,1280,720,role=cover canvas]
 image::analytics.gif[Analytics,1280,720,role=cover canvas]
 
 [.ending-slide]
-== Let's go with SCRUM & Extreme Programming
+== Let's go with SCRUM
 image::extreme.jpg[Extreme Programming,1280,720,role=cover canvas]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material on Project Management Classes</title>
+    <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/</link>
+    <description>Recent content in Material on Project Management Classes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 19:29:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

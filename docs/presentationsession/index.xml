@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentation on Project Management Classes</title>
+    <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/presentationsession/</link>
+    <description>Recent content in Presentation on Project Management Classes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 19:22:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/presentationsession/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HowTo</title>
+      <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/presentationsession/howto/</link>
+      <pubDate>Tue, 02 Oct 2018 19:23:23 +0200</pubDate>
+      
+      <guid>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/presentationsession/howto/</guid>
+      <description>This presentation is focused on the methodology to be followed in order to create a presentation. With this regards, we need to know our audience, the theme, highlights of the product/idea and we also need to minimise errors and avoid nervous.
+ Presentation (HTML)  </description>
+    </item>
+    
+  </channel>
+</rss>

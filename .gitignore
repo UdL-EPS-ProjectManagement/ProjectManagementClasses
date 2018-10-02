@@ -1,2 +1,8 @@
 static/agile/node_modules
+static/scrum/node_modules
+static/handson/node_modules
+static/presentation/node_modules
 docs/agile/node_modules
+docs/scrum/node_modules
+docs/handson/node_modules
+docs/presentation/node_modules
