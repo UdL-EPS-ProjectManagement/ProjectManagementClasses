@@ -1,0 +1,36 @@
+[
+{
+	"uri": "http://example.org/agile/",
+	"title": "Agile &amp; SCRUM",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 2 Agile \u0026amp; SCRUM This chapter is focused on learning Agile methodology and apply SCRUM to your projects.\n"
+},
+{
+	"uri": "http://example.org/agile/methdology/",
+	"title": "Agile Methdology",
+	"tags": [],
+	"description": "",
+	"content": "This section is aimed at explaining the fundamentals of the agile methodology.\n Presentation (HTML) Presentation and Notes (PDF)  "
+},
+{
+	"uri": "http://example.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/",
+	"title": "My New Hugo Site",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
