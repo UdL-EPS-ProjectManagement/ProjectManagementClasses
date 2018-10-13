@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Focus Group Session on Project Management Classes</title>
+    <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/focusgroupsession/</link>
+    <description>Recent content in Focus Group Session on Project Management Classes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 14:20:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/focusgroupsession/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brainstorming</title>
+      <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/focusgroupsession/brainstorming/</link>
+      <pubDate>Sat, 13 Oct 2018 16:42:09 +0200</pubDate>
+      
+      <guid>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/focusgroupsession/brainstorming/</guid>
+      <description>During the next 1h we will work in group in order to gather user stories for the different users of the application. With that aim, we need to:
+ Firstlly, we need to individualy think in specific application requirements based on the group idea presented.
+ We need to group requirements by similarity and build the user stories of our application.
+  For both tasks, we could use the following material:</description>
+    </item>
+    
+  </channel>
+</rss>

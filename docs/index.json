@@ -21,6 +21,41 @@
 	"content": " Chapter 4 SCRUM Material This chapter is focused on providing the templates and the material to help in the SCRUM implementation.\n"
 },
 {
+	"uri": "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/focusgroupsession/",
+	"title": "Focus Group Session",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 5 Focus Group Session This session is aimed at discovering main requirements and design our application for the further development. The class will be sub-divided into the following topics:\n Workshop Quizz (15 min) Ideas Concept Presentation and Comments (45 min) Requirements gathering \u0026amp; Architecture Design (2h)  "
+},
+{
+	"uri": "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/focusgroupsession/brainstorming/",
+	"title": "Brainstorming",
+	"tags": [],
+	"description": "",
+	"content": "During the next 1h we will work in group in order to gather user stories for the different users of the application. With that aim, we need to:\n Firstlly, we need to individualy think in specific application requirements based on the group idea presented.\n We need to group requirements by similarity and build the user stories of our application.\n  For both tasks, we could use the following material:\n Brainstorming Template  "
+},
+{
+	"uri": "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/sprintdistribution/",
+	"title": "Sprint Distribution",
+	"tags": [],
+	"description": "",
+	"content": "After the workshop, there is also required to deliver the sprint distribution and the initial architecture design. To do that, we provide some template to make your inspiration:\n Sprint Distirbution Template  "
+},
+{
+	"uri": "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/backlog/",
+	"title": "Product Backlog",
+	"tags": [],
+	"description": "",
+	"content": "This material is required to having a sprint backlog documented before passing the stories to Zenhub. This document will be the result from the \u0026ldquo;Focus Group Sessions\u0026rdquo;.\n Template in Markdown Template in Doc  "
+},
+{
+	"uri": "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/workshopquiz/",
+	"title": "Workshop Quiz",
+	"tags": [],
+	"description": "",
+	"content": "Today, after the workshop, we will play a game just to know your opinion about the workshop and the idea generation. The answers won\u0026rsquo;t affect your results neither the teachers relationship. It is just to help to improve!!!!\nAfter starting the game, we need to install \u0026ldquo;Kahoot!\u0026rdquo;! in our devices:\n Apple Devices\n Google Play Devices\n  The overall quizz is here:\n Quizz URL  "
+},
+{
 	"uri": "https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/",
 	"title": "",
 	"tags": [],

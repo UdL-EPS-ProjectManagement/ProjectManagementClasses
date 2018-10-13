@@ -11,5 +11,39 @@
 	<atom:link href="https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Sprint Distribution</title>
+      <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/sprintdistribution/</link>
+      <pubDate>Sat, 13 Oct 2018 13:14:30 +0200</pubDate>
+      
+      <guid>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/sprintdistribution/</guid>
+      <description>After the workshop, there is also required to deliver the sprint distribution and the initial architecture design. To do that, we provide some template to make your inspiration:
+ Sprint Distirbution Template  </description>
+    </item>
+    
+    <item>
+      <title>Product Backlog</title>
+      <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/backlog/</link>
+      <pubDate>Sat, 13 Oct 2018 13:12:30 +0200</pubDate>
+      
+      <guid>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/backlog/</guid>
+      <description>This material is required to having a sprint backlog documented before passing the stories to Zenhub. This document will be the result from the &amp;ldquo;Focus Group Sessions&amp;rdquo;.
+ Template in Markdown Template in Doc  </description>
+    </item>
+    
+    <item>
+      <title>Workshop Quiz</title>
+      <link>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/workshopquiz/</link>
+      <pubDate>Sat, 13 Oct 2018 13:12:30 +0200</pubDate>
+      
+      <guid>https://udl-eps-projectmanagement.github.io/ProjectManagementClasses/material/workshopquiz/</guid>
+      <description>Today, after the workshop, we will play a game just to know your opinion about the workshop and the idea generation. The answers won&amp;rsquo;t affect your results neither the teachers relationship. It is just to help to improve!!!!
+After starting the game, we need to install &amp;ldquo;Kahoot!&amp;rdquo;! in our devices:
+ Apple Devices
+ Google Play Devices
+  The overall quizz is here:
+ Quizz URL  </description>
+    </item>
+    
   </channel>
 </rss>
