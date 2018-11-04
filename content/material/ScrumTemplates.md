@@ -10,3 +10,5 @@ This part of the material have SCRUM templates to be used in your repository Wik
 
 - [Sprint Planning Templates](sprint/Sprint_Planing_Template.md)
 - [Daily Meeting Templates](sprint/Daily_Meeting_Template.md)
+- [Spring Review](sprint/Sprint_Review_Template.md)
+- [Spring Retrospective](sprint/Sprint_Retrospective_Template.md)
